@@ -1,3 +1,5 @@
+Infraestrutura
+
 O pip é o instalador/gerenciador de pacotes do Python.
 
 Para conferir se o pip está instalado, entre em um terminal e digite:

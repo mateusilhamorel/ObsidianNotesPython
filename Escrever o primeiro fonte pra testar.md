@@ -1,3 +1,5 @@
+Infraestrutura
+
 O outro modo de usar o compilador/interpretador do python é criando um fonte.
 Podemos usar qualquer editor de texto que permita gravar o arquivo com extensão .py.
 

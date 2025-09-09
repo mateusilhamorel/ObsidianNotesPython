@@ -1,3 +1,5 @@
+Infraestrutura
+
 Uma vez que o Python esteja instalado, podemos usar o interpretados para interagir diretamente com o "compilador/interpretador" da máquina virtual do Python.
 
 Acesse o terminal e (caso esteja no Windows) digite python ou py

@@ -1,4 +1,4 @@
-
+Infraestrutura
 Ambiente
 
 O Ambiente virtual é importante porque evita "contaminar" a instalação do Python original com pacotes que são exclusivos de outros projetos.
