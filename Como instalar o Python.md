@@ -1,3 +1,5 @@
+Ambiente
+
 Para instalar o Python no Windows:
 
 Baixe o python na pagina de downloads da central oficial do python.

@@ -1,6 +1,5 @@
 O Python precisa do "interpretador" instalado no computador e configurado no ambiente.
 
-[[Modos de instalar o Python]]
 [[Configurar o Python no sistema]]
 
 Uma vez Instalado e configurado, o desenvolvedor pode usar o Python de duas formas:

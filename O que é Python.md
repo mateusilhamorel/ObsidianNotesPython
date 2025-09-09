@@ -1,3 +1,5 @@
+Ambiente
+
 Python é uma **linguagem de programação de alto nível**, híbrida (copilada e interpretada), de propósito geral e com forte ênfase em **simplicidade e legibilidade do código**.
 
 Alto nível - Uma **linguagem de programação de alto nível** é aquela projetada para ser **mais próxima da linguagem humana** e **mais distante da linguagem de máquina** (códigos binários ou assembly).
