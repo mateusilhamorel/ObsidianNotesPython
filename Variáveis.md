@@ -19,8 +19,19 @@ Ex:
 esta_e_uma_variavel = "aqui vao dados"
 ```
 
-No entanto nem tudo pode ser guardado em variáveis.
 
+
+NOTA:
+
+O símbolo "=" serve para atribuir/aplicar o valor à variável.
+Em outros casos, quando vamos comparar variáveis usamos o 
+```python
+ == 
+```
+para comparar valores. ENTAO CUIDADO!
+
+
+No entanto nem tudo pode ser guardado em variáveis.
 Temos alguns tipos de dados que as variáveis aceitam e podemos forçar :
 
 INTEIRO:
