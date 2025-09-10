@@ -1,3 +1,5 @@
+Sintaxe
+
 O if (do inglês "se") é uma estrutura que permite uma tomada de decisão ao se avaliar uma "condição".
 
 Se (calor hoje E dinheiro no bolso) - então tomar sorvete.
