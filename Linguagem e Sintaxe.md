@@ -12,4 +12,7 @@ Seguem os tópicos da linguagem Python:
 [[Funções]] - Também conhecidas como sub-rotinas.  
 [[Imports]]
 [[Pacotes]]
+[[Classes]]
+[[Threads]]
+
 

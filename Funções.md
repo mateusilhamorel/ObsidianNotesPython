@@ -218,3 +218,6 @@ fatorial(4)              # Primeira chamada com 4
 
 Usando a analogia do NAMESPACE, é como se fosse uma boneca Matrioshka, que vai criando um espaço dentro do outro
 
+Consulte [[Exceções]] para evitar travamentos de execução.
+Consulte [[Traceback]] para entender as calls de função.
+Consulte [[Funções especiais]] para conferir algumas funções especiais.
