@@ -13,6 +13,9 @@ Seguem os tópicos da linguagem Python:
 [[Imports]]
 [[Pacotes]]
 [[Classes]]
+[[Manipulação de arquivos]]
 [[Threads]]
+[[Unit test]]
+
 
 
