@@ -16,6 +16,8 @@ Seguem os tópicos da linguagem Python:
 [[Manipulação de arquivos]]
 [[Threads]]
 [[Unit test]]
+[[Expressões Regulares]]
+
 
 
 
